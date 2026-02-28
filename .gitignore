@@ -73,3 +73,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# UE5 specific
+.utouch
+.uevpt
+Script/
+
+# Local user settings
+FileOpenOrder/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
